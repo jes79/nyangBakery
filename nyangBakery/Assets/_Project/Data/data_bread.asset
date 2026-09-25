@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71af114b5c45670428687f1b13814e54, type: 3}
+  m_Name: data_bread
+  m_EditorClassIdentifier: Assembly-CSharp::NyangBakery.Data.BreadTable
+  rows:
+  - bread_id: bread_001
+    name: "\uD06C\uB8E8\uC544\uC0C1"
+    bake_time: 3
+    perfect_window: 0.6
+    price: 10
+    perfect_bonus: 50
+    unlock_level: 1
