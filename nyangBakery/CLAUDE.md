@@ -13,6 +13,7 @@
 - 다시 쓸 코드: Assets/_Project/Core (Game을 참조하지 않는다)
 - 숫자와 설정값: Assets/_Project/Data
 - 임시 리소스: Assets/_Project/Art/Temp, VARCO 원본: Assets/_Project/Art/Varco
+- 씬: Assets/_Project/Scenes
 - 기획 문서: docs (결정 카드는 docs/01_rules, 표 설계는 docs/03_tables, 통과 조건은 docs/04_pass)
 
 ## 작업 방식
